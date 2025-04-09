@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Sanjana Wandre!
 
-<!--
-**23-Sanjana/23-Sanjana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**BSc Computer Science | Web Developer | Python Enthusiast**
 
-Here are some ideas to get you started:
+- 🎓 Currently pursuing 2nd Year BSc CS at Model College.
+- 💻 Passionate about Web Development and AI/ML
+- 🔧 Skilled in: HTML, CSS, JavaScript, Python, MySQL, MongoDB
+- 🌱 Working on college website projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ Featured Projects
+- **College Website** - Static info site with login system, news update, AI chatbot & virtual tour
+
+## 📫 Connect with me:
+- **Email**: wandresanjana27@gmail.com
+- **GitHub**: [23-Sanjana](https://github.com/23-Sanjana)
+- **LinkedIn**: https://www.linkedin.com/in/sanjana-wandre-84b83223b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+Thanks for visiting!
